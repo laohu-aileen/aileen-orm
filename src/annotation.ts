@@ -27,6 +27,22 @@ export {
   OneToOne,
   JoinTable,
   Connection,
+  Any,
+  Between,
+  Equal,
+  ILike,
+  In,
+  IsNull,
+  LessThan,
+  LessThanOrEqual,
+  Like,
+  MoreThan,
+  MoreThanOrEqual,
+  Not,
+  Raw,
+  FindConditions,
+  FindManyOptions,
+  FindOneOptions,
 } from "typeorm";
 
 /**
